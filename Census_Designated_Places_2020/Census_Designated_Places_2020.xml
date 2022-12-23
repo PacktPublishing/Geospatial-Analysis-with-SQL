@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>CENSUS_DESIGNATED_PLACERS_2020</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The Census Designated Places 2020 (CDP 2020) boundary usually is defined by the Census Bureau in cooperation with state, local or tribal officials. The boundaries are updated prior to each decennial census. These boundaries, which usually coincide with visible features or the boundary of an adjacent incorporated place or another legal entity boundary, have no legal status, nor do these places have officials elected to serve traditional municipal functions. CDP boundaries may change from one decennial census to the next with changes in the settlement pattern; a CDP with the same name as in an earlier census does not necessarily have the same boundary. CDPs must be contained within a single state and may not extend into an incorporated place. There are no population size requirements for CDPs. incorporated CDP data is download from Census Bureau's TIGER 2020 website (https://www2.census.gov/geo/tiger/TIGER2020/PLACE/) and extracted for Los Angeles County. This data includes LA County 88 incorporated cities and 54 CDPs.Data Fields:GEOOID: ID field (combination of State code and place code)STATE: State code (06 for California)PLACE: City and CDP codeNAME: Place name (City and CDP name)LSAD: Type - City or CDPAREA: Area in US Acre.</abstract>
+            <purpose>Census Designated Places (CDPs) are the statistical counterparts of incorporated places, and are delineated to provide data for settled concentrations of population that are identifiable by name but are not legally incorporated under the laws of the state in which they are located.</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-118.931761</westbc>
+                <eastbc>-117.675360</eastbc>
+                <northbc>34.769536</northbc>
+                <southbc>33.315014</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Census. Census Designated Places</themekey>
+                <themekey>CDP</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Census Designated Places 2020 (CDP 2020) data is for statistical tabulation/reporting purposes only and may not have been prepared for or be suitable for geoprocessing analysis, and/or for legal, engineering, or surveying intents. Users of this information should review or consult the primary data and information sources to ascertain the usability of the information.The County of Los Angeles provides this data with no claim as to the completeness, usefulness, or accuracy of its content, positional or otherwise. The user hereby acknowledges that the data is subject to change and that its accuracy cannot be guaranteed. The County and its officials and employees make no warranty, express or implied, and assume no legal liability or responsibility for the ability of users to fulfill their intended purposes in accessing or using this data. The data could include technical inaccuracies and typographical errors. The data is presented &amp;quot;as is,&amp;quot; without warranty of any kind, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. </useconst>
+        <datacred>Los Angeles County, Internal Services Department (ISD - GIS) / Census Bureau</datacred>
+        <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.7.1.11595</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>142</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>Census_Designated_Places_2020_Prj</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Coordinates defining the features.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Area</attrlabl>
+                <attrdef>Area of feature in internal units squared.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>GEOID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>STATE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PLACE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LSAD</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>AREA</attrlabl>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20210818</metd>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
