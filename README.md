@@ -1,1 +1,2 @@
-# Geospatial-Analysis-with-SQL
+# SQL-for-Geospatial
+Data resources for SQL for Geospatial Book
