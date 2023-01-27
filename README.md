@@ -57,3 +57,8 @@ With the following software and hardware list you can run all code files present
 ## Get to Know the Author
 **Bonny P McClain** applies advanced data analytics, including data engineering and geo-enrichment, to discussions of poverty, race, and gender. Racism, class exploitation, sexism, nationalism, and heterosexism all contribute to social inequality. Bonny redefines how we measure these attributes and how we can more accurately identify amenable interventions. Spatial data hosts a variety of physical and cultural features that reveal distribution patterns and help analysts and data professionals understand the underlying drivers of these patterns.
 Bonny is a popular conference keynote and workshop leader. Her professional goals include exploring large datasets and curating empathetic answers to larger questions, making a big world seem smaller.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804616468">https://packt.link/free-ebook/9781804616468 </a> </p>
