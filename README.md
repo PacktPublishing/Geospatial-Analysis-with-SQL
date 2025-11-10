@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
-
 # Geospatial Analysis with SQL		
 
 <a href="https://www.amazon.com/Geospatial-Analysis-SQL-hands-geospatial-ebook/dp/B0BKQ9T4ZP"><img src="https://m.media-amazon.com/images/I/51pgy-0O+FL.jpg" alt="Geospatial Analysis with SQL" height="256px" align="right"></a>
