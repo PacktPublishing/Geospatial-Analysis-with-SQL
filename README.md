@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
+
 # Geospatial Analysis with SQL		
 
 <a href="https://www.amazon.com/Geospatial-Analysis-SQL-hands-geospatial-ebook/dp/B0BKQ9T4ZP"><img src="https://m.media-amazon.com/images/I/51pgy-0O+FL.jpg" alt="Geospatial Analysis with SQL" height="256px" align="right"></a>
